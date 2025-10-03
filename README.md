@@ -1,4 +1,4 @@
-<img width="672" height="661" alt="me" src="https://github.com/user-attachments/assets/f31dada4-5522-4aca-af03-033be3fed47d" />
+
 👋 Hi, I'm Hirwa Amani Topray 
 
 🚀 Developer 
