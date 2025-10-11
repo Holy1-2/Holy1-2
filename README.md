@@ -49,9 +49,9 @@
 ## 🔗 Let's Connect  
 
 📫 **Email:** [amanitoprayhirwa@gmail.com](mailto:amanitoprayhirwa@gmail.com)  
-🌐 **Portfolio:** [your-portfolio-link.com](#)  
-🐙 **GitHub:** [github.com/yourusername](#)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
+🌐 **Portfolio:** [https://devtopray.netlify.app/](#)  
+🐙 **GitHub:** [https://github.com/Holy1-2](#)  
+
 
 ---
 
