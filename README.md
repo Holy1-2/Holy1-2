@@ -1,6 +1,3 @@
-Absolutely! Here’s a **fully rewritten, polished README** that integrates your **full-stack, UI, and Machine Learning skills** in a modern, engaging style. You can directly use this for GitHub or your portfolio.
-
----
 
 # 👋 Hi, I'm Hirwa Amani Topray
 
